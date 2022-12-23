@@ -21,13 +21,13 @@
             android:background="@color/colorAccent"
             android:fitsSystemWindows="true"
             app:elevation="0dip"
-            app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+            app:theme="@style/ThemeOverlay.AppCompat.DayNight.ActionBar">
 
             <androidx.appcompat.widget.Toolbar
                 android:id="@+id/toolbarAdd"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                app:titleTextColor="@color/colorPrimary" />
+                app:titleTextColor="@color/black" />
         </com.google.android.material.appbar.AppBarLayout>
 
 
@@ -51,7 +51,7 @@
                 android:paddingTop="8dp"
                 android:paddingBottom="8dp"
                 android:text="@string/button_addImage"
-                android:textColor="@color/colorPrimary"
+                android:textColor="@color/black"
                 android:textSize="16sp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="1.0"
