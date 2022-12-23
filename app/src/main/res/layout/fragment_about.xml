@@ -26,6 +26,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/aboutus_message"
+        android:hint="@string/action_about"
         android:textAlignment="center"
         android:textColor="#000000"
         android:textSize="24sp"

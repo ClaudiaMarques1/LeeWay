@@ -20,6 +20,10 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
+    <string name="nav_header_title">Leeway</string>
+    <string name="nav_header_subtitle">info@leeway.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
     <string name="action_about">About Us</string>
     <string name="aboutus_title">Claudia Marques - Developer</string>
     <string name="aboutus_message">I\'m Claudia Marques \n\nThis app is to input your habits and keep a track of your progress\n\n</string>
@@ -42,4 +46,11 @@
     <!--FireBase-->
 
     <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
 </resources>
